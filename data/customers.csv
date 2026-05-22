@@ -1,0 +1,151 @@
+customer_id,customer_name,segment,city,region,signup_date
+1,Brooklyn Sanders,Corporate,Luton,East,2024-09-15
+2,Christopher Ford,Consumer,Leeds,North,2024-09-19
+3,Kennedy Perry,Consumer,London,South,2024-11-13
+4,Landon Griffin,Consumer,Nottingham,Central,2024-10-04
+5,Thomas Turner,Consumer,Birmingham,West,2024-10-08
+6,Camila Richardson,Consumer,Newcastle,North,2024-09-24
+7,Mason Simmons,Small Business,Bristol,South,2024-02-24
+8,Oliver Thomas,Consumer,Liverpool,North,2024-12-07
+9,Luke Ross,Consumer,Gloucester,West,2024-08-18
+10,Robert Hayes,Consumer,London,South,2024-03-23
+11,Oliver Anderson,Consumer,Norwich,East,2024-05-16
+12,Aria Bell,Premium,Ipswich,East,2024-05-01
+13,Evelyn Ward,Small Business,Peterborough,East,2024-07-22
+14,Elizabeth Johnson,Corporate,Ipswich,East,2024-04-16
+15,Hazel Martinez,Consumer,Stoke,Central,2024-12-17
+16,Caroline Cox,Corporate,Manchester,North,2024-06-22
+17,Alexander Rivera,Corporate,Derby,Central,2024-01-26
+18,Benjamin Martinez,Consumer,Bath,West,2024-07-13
+19,Allison Cook,Premium,York,North,2024-08-15
+20,Emily Martinez,Consumer,Cambridge,East,2024-04-28
+21,Christopher Gray,Corporate,Reading,South,2024-11-08
+22,Gabriel Harris,Consumer,Peterborough,East,2024-10-27
+23,Samuel Rivera,Consumer,Leeds,North,2024-03-22
+24,Nathan Jones,Consumer,Leeds,North,2024-10-01
+25,Abigail Bennett,Small Business,Newcastle,North,2024-04-11
+26,Aaron Howard,Consumer,Peterborough,East,2024-05-09
+27,Lily Garcia,Corporate,Worcester,West,2024-01-25
+28,Carter Jenkins,Corporate,Luton,East,2024-11-02
+29,Riley Howard,Consumer,Norwich,East,2024-08-24
+30,Carter Stewart,Corporate,Birmingham,West,2024-04-05
+31,Adrian Davis,Consumer,Leeds,North,2024-02-20
+32,Daniel Perry,Consumer,Manchester,North,2024-09-10
+33,Logan Coleman,Consumer,Exeter,West,2024-08-12
+34,Aria Phillips,Consumer,Manchester,North,2024-03-21
+35,Ella Adams,Corporate,London,South,2024-09-05
+36,Aaliyah Gonzalez,Corporate,Derby,Central,2024-09-03
+37,Jack Murphy,Premium,Peterborough,East,2024-09-27
+38,Jack Wright,Consumer,Liverpool,North,2024-03-18
+39,Mason White,Consumer,Reading,South,2024-06-13
+40,Carter Garcia,Consumer,Gloucester,West,2024-11-25
+41,Mia Butler,Corporate,Exeter,West,2024-08-28
+42,Hunter Coleman,Consumer,Exeter,West,2024-08-02
+43,Harper Bailey,Corporate,Nottingham,Central,2024-02-26
+44,Audrey Stewart,Consumer,Bath,West,2024-03-06
+45,Eli Watson,Corporate,Colchester,East,2024-11-27
+46,Joshua Wilson,Consumer,Leicester,Central,2024-11-12
+47,Luna Bryant,Consumer,Sheffield,North,2024-04-10
+48,Ava Green,Consumer,Cambridge,East,2024-04-21
+49,Grace Ramirez,Small Business,Leicester,Central,2024-03-24
+50,Sofia Hill,Consumer,Canterbury,South,2024-11-18
+51,Andrew Howard,Consumer,Luton,East,2024-02-22
+52,Charlotte Jackson,Corporate,Bradford,North,2024-10-25
+53,Gabriel Cook,Consumer,Derby,Central,2024-05-11
+54,Jayden Jones,Consumer,York,North,2024-07-09
+55,Logan Sanders,Consumer,Exeter,West,2024-11-18
+56,Nolan Taylor,Premium,Derby,Central,2024-01-09
+57,Lucy Mitchell,Consumer,London,South,2024-11-25
+58,Scarlett Russell,Small Business,Nottingham,Central,2024-10-09
+59,Zoe Johnson,Small Business,Ipswich,East,2024-08-21
+60,Evan Lopez,Consumer,Gloucester,West,2024-05-17
+61,Tyler Griffin,Small Business,London,South,2024-10-19
+62,Madelyn Foster,Consumer,Southampton,South,2024-12-20
+63,Henry Reed,Consumer,Southampton,South,2024-09-28
+64,Paisley Young,Consumer,York,North,2024-12-24
+65,Samuel Taylor,Corporate,Colchester,East,2024-12-09
+66,Hunter Peterson,Consumer,Canterbury,South,2024-08-13
+67,Joseph Rivera,Consumer,Derby,Central,2024-01-14
+68,Aria Robinson,Consumer,Leeds,North,2024-03-03
+69,David Bryant,Consumer,Nottingham,Central,2024-06-24
+70,Thomas Simmons,Consumer,Gloucester,West,2024-10-22
+71,Nolan Sanders,Consumer,Bath,West,2024-11-24
+72,Matthew Simmons,Consumer,Leeds,North,2024-12-05
+73,Abigail Ward,Consumer,Liverpool,North,2024-11-22
+74,Isabella Butler,Corporate,Leeds,North,2024-10-11
+75,Nathan Butler,Premium,Coventry,Central,2024-01-25
+76,Aiden Carter,Small Business,Gloucester,West,2024-08-20
+77,Lucy Barnes,Corporate,Worcester,West,2024-11-24
+78,Cameron Collins,Consumer,Exeter,West,2024-12-03
+79,Gabriel Williams,Consumer,Leicester,Central,2024-03-24
+80,David Hall,Consumer,Coventry,Central,2024-04-14
+81,Emily Anderson,Small Business,Liverpool,North,2024-10-18
+82,Kennedy Hernandez,Corporate,Coventry,Central,2024-02-19
+83,Sebastian Morris,Small Business,Bath,West,2024-08-23
+84,Hannah Torres,Consumer,Gloucester,West,2024-04-21
+85,Michael Rodriguez,Consumer,Brighton,South,2024-06-03
+86,Michael Alexander,Consumer,Worcester,West,2024-01-22
+87,Connor Allen,Corporate,Southampton,South,2024-07-26
+88,Hazel Kelly,Consumer,Peterborough,East,2024-07-06
+89,Brooklyn Campbell,Consumer,Nottingham,Central,2024-10-19
+90,Leo Evans,Consumer,London,South,2024-11-13
+91,Gabriel Barnes,Consumer,Norwich,East,2024-03-24
+92,Christopher Clark,Consumer,Northampton,Central,2024-09-27
+93,Sophia Garcia,Consumer,Newcastle,North,2024-08-01
+94,Charlotte Mitchell,Consumer,Cambridge,East,2024-12-21
+95,Riley Sanchez,Consumer,Stoke,Central,2024-09-14
+96,Alexander Rodriguez,Consumer,Leicester,Central,2024-08-13
+97,Leo Washington,Consumer,Leicester,Central,2024-12-28
+98,Hannah Williams,Consumer,Cardiff,West,2024-09-14
+99,Hazel Baker,Premium,Cardiff,West,2024-12-13
+100,Madelyn Hayes,Consumer,Brighton,South,2024-05-27
+101,Nathan Griffin,Consumer,Leicester,Central,2024-03-11
+102,Violet James,Consumer,Exeter,West,2024-02-22
+103,Henry Adams,Small Business,Manchester,North,2024-07-16
+104,Ava Perez,Small Business,Canterbury,South,2024-01-15
+105,Jacob Smith,Consumer,Birmingham,West,2024-04-11
+106,Penelope Brooks,Small Business,Canterbury,South,2024-04-04
+107,Aria Williams,Small Business,Southampton,South,2024-01-14
+108,Mia Hughes,Premium,Manchester,North,2024-10-21
+109,Daniel Sanders,Consumer,Gloucester,West,2024-10-05
+110,Jayden Simmons,Small Business,Newcastle,North,2024-04-23
+111,Tyler Cooper,Small Business,Luton,East,2024-06-17
+112,Anna Lewis,Consumer,Bath,West,2024-02-24
+113,Aiden Long,Consumer,Leeds,North,2024-09-15
+114,Jayden Martinez,Consumer,Liverpool,North,2024-12-04
+115,Oliver Hill,Consumer,Exeter,West,2024-12-01
+116,Tyler Sanders,Corporate,Sheffield,North,2024-07-26
+117,Landon Wood,Consumer,Liverpool,North,2024-12-17
+118,Connor Young,Premium,Nottingham,Central,2024-12-28
+119,Landon Cook,Consumer,London,South,2024-12-03
+120,Nolan Simmons,Consumer,Liverpool,North,2024-10-25
+121,Robert Alexander,Corporate,Cambridge,East,2024-10-16
+122,Joshua Price,Premium,Stoke,Central,2024-01-23
+123,Nolan Cox,Consumer,Sheffield,North,2024-09-12
+124,Aurora Jackson,Consumer,Canterbury,South,2024-10-06
+125,Thomas Flores,Consumer,Brighton,South,2024-02-01
+126,Oliver Wilson,Consumer,Luton,East,2024-02-04
+127,Joseph Sanchez,Consumer,Southampton,South,2024-12-14
+128,Joseph Thomas,Consumer,Manchester,North,2024-02-13
+129,Violet Davis,Consumer,Nottingham,Central,2024-04-07
+130,Savannah Cooper,Consumer,London,South,2024-03-09
+131,Zoe Jones,Small Business,Norwich,East,2024-08-03
+132,Eli Rodriguez,Small Business,Leicester,Central,2024-10-25
+133,Layla Henderson,Consumer,Norwich,East,2024-03-01
+134,Victoria Moore,Small Business,Northampton,Central,2024-03-06
+135,Owen Jackson,Consumer,Bradford,North,2024-09-11
+136,Caleb Butler,Premium,York,North,2024-04-10
+137,Landon Lewis,Small Business,York,North,2024-05-21
+138,Lucy Brown,Consumer,York,North,2024-02-16
+139,Ava Ramirez,Consumer,Liverpool,North,2024-07-23
+140,Hazel Walker,Consumer,Cambridge,East,2024-06-14
+141,Sebastian Myers,Consumer,Brighton,South,2024-08-08
+142,William Watson,Corporate,Cambridge,East,2024-03-09
+143,David Torres,Consumer,York,North,2024-08-28
+144,James Wilson,Corporate,Worcester,West,2024-02-19
+145,Joshua Davis,Consumer,London,South,2024-09-18
+146,Logan Young,Corporate,Gloucester,West,2024-06-04
+147,Abigail Moore,Consumer,Sheffield,North,2024-07-04
+148,Alice Carter,Small Business,Derby,Central,2024-06-23
+149,David Scott,Premium,Gloucester,West,2024-05-03
+150,Aurora Evans,Small Business,Newcastle,North,2024-05-22
